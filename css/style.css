@@ -1,4 +1,9 @@
 /* Base */
+/*@font-face { font-family: Delicious; src: url('Moderan.ttf'); }
+@font-face { font-family: Delicious; font-weight: bold; src: url('Moderan.ttf');} 
+p {
+  font-family: Delicious; 
+}*/
 .font-size-10 {
   font-size: 10px; }
 
@@ -1159,3 +1164,5 @@ h1, h2, h3, h4, h5,
 
 .slide-one-item .owl-nav .owl-next {
   right: 20px; }
+
+
